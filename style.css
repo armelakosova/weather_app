@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #e2c6de; /* Ngjyrë shumë më e lehtë dhe më e ngrohtë */
+    background: #e2c6de; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +16,7 @@ body {
 .card {
     width: 420px;
     height: 550px;
-    background: linear-gradient(135deg, #6a82fb, #fc5c7d); /* Ngjyra gradient më të ngrohta dhe të gjalla */
+    background: linear-gradient(135deg, #6a82fb, #fc5c7d); 
     color: #fff;
     border-radius: 50px;
     padding: 30px;
@@ -35,7 +35,7 @@ body {
     outline: none;
     background: #fff;
     color: #333;
-    padding: 12px 18px; /* Përshtatje për më shumë komoditet */
+    padding: 12px 18px; 
     height: 45px;
     border-radius: 25px;
     flex: 1;
@@ -45,7 +45,7 @@ body {
 .search button {
     border: none;
     outline: none;
-    background: #ffce00; /* Ngjyrë e ngrohtë për butonin */
+    background: #ffce00; 
     cursor: pointer;
     margin-left: 10px;
     border-radius: 30px;
@@ -67,7 +67,7 @@ body {
 .weather h1 {
     font-size: 80px;
     font-weight: 500;
-    color: #ffcc00; /* Ngjyrë ngrohtë për shkrimin */
+    color: #ffcc00; 
 }
 
 .weather h2 {
